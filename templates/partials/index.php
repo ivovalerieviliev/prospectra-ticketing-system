@@ -1,0 +1,2 @@
+<?php
+// Partials placeholder.
